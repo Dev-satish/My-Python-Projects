@@ -37,26 +37,9 @@ elif cross_road.lower() == "left":
         elif door.lower() == "blue":
             print("Eaten by Beasts \n Game Over")
         elif door.lower() == "yellow":
-            print("You Win!")
+            print("Congratulations!!!, You Found the Treasure! \n You Win!")
         else:
             print("Game Over")
 
 else:
     print("Game Over")
-
-# if not  cross_road == "left" or "left" == cross_road:
-#     print("Fall into a hole. \n Game Over.")
-# elif cross_road == "right":
-#     cross_road = input(f''' You've come to a lake. There is an island in the middle of the lake. \n Type "wait" to wait for a boat. Type "swim" to swim across. ''')
-#     if not cross_road == "Wait":
-#         print("Attacked by trout. \n Game Over.")
-#     elif cross_road == "Wait":
-#         cross_road = input(f''' You arrive at the island unharmed. There is a house with 3 doors. \n One red, one yellow and one blue. Which colour do you choose? ''')
-#         if cross_road == "Red" or cross_road == "red":
-#             print("Burned by fire. \n Game Over")
-#         elif cross_road == "Blue" or cross_road == "blue":
-#             print("Eaten by Beasts \n Game Over")
-#         elif cross_road == "Yellow" or cross_road == "yellow":
-#             print("You Win!")
-#         else:
-#             print("Game Over")
