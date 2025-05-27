@@ -25,8 +25,8 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-player = random.choice([1,2,3])
-machine = random.choice([1,2,3])
+# player = random.choice([1,2,3])
+player = int(input("What do you choose?, Type 1 for Rock, 2 for paper and 3 for Scissors "))
 if player == 1:
     print(f"You Chose \n {rock}")
 elif player == 2:
@@ -34,6 +34,7 @@ elif player == 2:
 else:
     print(f"You Chose \n {scissors}")
 
+machine = random.choice([1,2,3])
 if machine == 1:
     print(f"Machine Chose \n {rock}")
 elif machine == 2:
