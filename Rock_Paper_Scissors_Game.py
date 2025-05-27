@@ -42,21 +42,10 @@ elif machine == 2:
 else:
     print(f"Machine Chose \n {scissors}")
 
-if player == 1 and machine == 1:
+if (player == 1 and machine == 1) or (player == 2 and machine == 2) or (player == 3 and machine == 3):
     print("Game Draw")
-elif player == 1 and machine == 2:
+elif (player == 1 and machine == 2) or (player == 2 and machine == 3) or (player == 3 and machine == 1):
     print("You Lost")
-elif player == 1 and machine == 3:
+elif (player == 1 and machine == 3) or (player == 2 and machine == 1) or (player == 3 and machine == 2):
     print("You Win!")
-elif player == 2 and machine == 1:
-    print("You Win!")
-elif player == 2 and machine == 2:
-    print("Game Draw")
-elif player == 2 and machine == 3:
-    print("You Lost")
-if player == 3 and machine == 1:
-    print("You Lost")
-elif player == 3 and machine == 2:
-    print("You Win!")
-elif player == 3 and machine == 3:
-    print("Game Draw")
+
