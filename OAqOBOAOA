@@ -1,0 +1,93 @@
+[33mcommit f5ffe4320454637895d13a18e5612df49dfb1d07[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Satish <7506satish@gmail.com>
+Date:   Wed May 28 01:14:30 2025 +0530
+
+    Update README
+
+[33mcommit c18eadb56d73aa7f379a2c655d7db32d0ba8ebbc[m
+Author: Satish <7506satish@gmail.com>
+Date:   Tue May 27 21:51:46 2025 +0530
+
+    A Password Generator program
+
+[33mcommit 683d87320ea8c312d89bc26800301564bb6fa205[m
+Author: Satish <7506satish@gmail.com>
+Date:   Tue May 27 20:12:32 2025 +0530
+
+    A Little Better code
+
+[33mcommit b5cc33bfce9c0f02445a7327136e5476fb154fbb[m
+Author: Satish <7506satish@gmail.com>
+Date:   Tue May 27 20:04:53 2025 +0530
+
+    Update Rock, Paper and Scissors Game
+
+[33mcommit cb5946129015b206c743581446ad732676897db9[m
+Author: Satish <7506satish@gmail.com>
+Date:   Tue May 27 19:39:09 2025 +0530
+
+    Rock, Paper and Scissors Game
+
+[33mcommit 785b6651583acadbcc1e39a9b4ba30e6c180dd81[m
+Author: Satish <7506satish@gmail.com>
+Date:   Mon May 26 20:52:26 2025 +0530
+
+    Update Treasure Island Game
+
+[33mcommit fc7d396c1436ad72f124e3113286426bef942d61[m
+Author: Satish <7506satish@gmail.com>
+Date:   Mon May 26 20:42:34 2025 +0530
+
+    Update README
+
+[33mcommit b039bf5f6034e1d7ee931c3c6d4e82ef63689fd4[m
+Author: Satish <7506satish@gmail.com>
+Date:   Mon May 26 20:29:23 2025 +0530
+
+    A Simple Treasure Island Game
+
+[33mcommit 181e8bb16c069e4f83b60f8d99a213702fa20afd[m
+Author: Satish <7506satish@gmail.com>
+Date:   Sun May 25 22:32:11 2025 +0530
+
+    Update README
+
+[33mcommit e480bd1596c0531522c018ecd4b537c7794afcda[m
+Author: Satish <7506satish@gmail.com>
+Date:   Sun May 25 22:26:47 2025 +0530
+
+    A simple Tip Calculator
+
+[33mcommit f7700321cbe847a5b66b21403a3ac19f6dd7a1f1[m
+Merge: 85c87f8 c2bdc19
+Author: Satish <7506satish@gmail.com>
+Date:   Sun May 25 16:34:18 2025 +0530
+
+    Add readme
+
+[33mcommit c2bdc19961ec30195a2c6d81f3add2a525bd4d32[m
+Author: Satish Mishra <7506satish@gmail.com>
+Date:   Sun May 25 03:04:49 2025 +0530
+
+    Update README.md
+
+[33mcommit 42efb83f782e21e528d3a4ef0c0c01d24a8fe7f7[m
+Author: Satish Mishra <7506satish@gmail.com>
+Date:   Sun May 25 03:04:10 2025 +0530
+
+    Create README.md
+    
+    # My Python Projects
+    
+    Collection of Python projects I have built while learning.
+    
+    ## Projects
+    
+    - **Project1_Band_Name_Generator**: Generate cool band names using concatenation.
+    - **Project2_Another_Project**: Description of project 2.
+
+[33mcommit 85c87f8e60abcdd6bbbfbfe709cfc9ff49bdc984[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Satish <7506satish@gmail.com>
+Date:   Sat May 24 23:39:44 2025 +0530
+
+    Project uses concatination technique to generate band names
