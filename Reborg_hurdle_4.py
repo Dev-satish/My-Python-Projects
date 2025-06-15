@@ -28,12 +28,17 @@ def go_down():
         
 while at_goal() == False:
 
-    while front_is_clear() is True:
-        move()
+    if at_goal() is not True:
+        while front_is_clear() is True:
+            if at_goal() is True:
+                break
+            else:
+                move()
     while wall_in_front() is True:
         turn_left()
         while right_is_clear() is not True:
-            move()
+            if at_goal is not True:
+                move()
         go_down()
     
         
